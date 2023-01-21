@@ -11,3 +11,9 @@
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/saydum/count.svg)
+
+## Github Stats
+
+<img width="276" src="https://raw.githubusercontent.com/saydum/saydum/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/saydum/saydum/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+
+<img width="100%" src="https://github.com/saydum/saydum/raw/master/skills.svg">
