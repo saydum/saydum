@@ -2,7 +2,6 @@
 - 👋 Hi, I’m Saydum Khalibekov
 - 👀 I’m interested in:
   - :coffee: Java/Backtnd/Android
-  - :snake: Python/GTK
   - :elephant: PHP/Laravel
  
 - 🌱 I’m currently learning Java-Backend
