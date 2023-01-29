@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Saydum Khalibekov
 - 👀 I’m interested in:
-  - :elephant: PHP-developer
+  - :elephant: PHP-development
 - 🌱 I’m currently learning Symfony
 - 💞️ I’m looking to collaborate on Open source
 - 📫 How to reach me [@saydum47](https://t.me/saydum47)
