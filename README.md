@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m Saydum Khalibekov
+## 👋 Hi, I’m Saydum
 ![](f.gif)
 ### 👀 I’m interested in :elephant: PHP-development
 ### 🌱 I’m currently learning Symfony
