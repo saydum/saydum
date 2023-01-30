@@ -1,8 +1,6 @@
 
 ## 👋 Hi, I’m Saydum
-![](f.gif)
-### 👀 I’m interested in :elephant: PHP-development
-### 🌱 I’m currently learning Symfony
+### 👀 I’m interested in :elephant: Backend-development
 ### 💞️ I’m looking to collaborate on Open source
 ### 📫 How to reach me [@saydum47](https://t.me/saydum47)
 
