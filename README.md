@@ -57,7 +57,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Postman.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Swagger.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/RabbitMQ.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Elastic-Search.svg"></code>
-
 
 
