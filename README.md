@@ -1,5 +1,5 @@
 
-<img align="right" height="260" width="auto" alt="GIF" src="https://raw.githubusercontent.com/image/g.gif" />
+<img align="right" height="260" width="auto" alt="GIF" src="https://github.com/saydum/saydum/blob/main/image/g.gif" />
 
 👋 Hi, I’m Saydum!
 <br>
