@@ -29,9 +29,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Laravel.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Symfony.svg"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Python-Dark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Django.svg"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/MySQL.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/PostgreSQL.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/SQLite.svg"></code>
