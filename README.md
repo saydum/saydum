@@ -8,7 +8,6 @@
  <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=saydum&style=plastic&label=views&color=orange" alt="saydum" /> 
-![Codewars](https://www.codewars-readme-stats.vercel.app/api?username=saydum)
  </p>
 
 **Languages and Tools:**
@@ -44,7 +43,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Github.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Github-Actions.svg"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Docker.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Postman.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Swagger.svg"></code>
@@ -52,5 +50,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=saydum&count_private=true&show_icons=true&theme=github_dark&hide_border=true&show=prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saydum&size_weight=1&count_weight=0&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23)](https://github.com/anuraghazra/github-readme-stats)
+![Codewars](https://github.r2v.ch/codewars?user=saydum)
 
 
