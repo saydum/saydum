@@ -47,9 +47,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Swagger.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/RabbitMQ.svg"></code>
 
-![saydum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saydum&theme=onedark&hide_border=true)
-![saydum's Stats](https://github-readme-stats.vercel.app/api?username=saydum&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![saydum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saydum&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-![Codewars](https://github.r2v.ch/codewars?user=saydum)
+<div align="center">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saydum&theme=onedark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saydum&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="48%" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saydum&theme=onedark&show_icons=true&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github.r2v.ch/codewars?user=saydum" width="48%" />
+
+</div>
