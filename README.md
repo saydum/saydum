@@ -8,8 +8,7 @@
  <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=saydum&style=plastic&label=views&color=orange" alt="saydum" /> 
- <img alt="Stars" src="https://img.shields.io/github/stars/saydum/saydum?style=plastic&labelColor=343b41"/>
- <img alt="Forks" src="https://img.shields.io/github/forks/saydum/saydum?style=plastic&labelColor=343b41"/>
+![Codewars](https://www.codewars-readme-stats.vercel.app/api?username=saydum)
  </p>
 
 **Languages and Tools:**
@@ -37,7 +36,6 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Phpstorm.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/VSCode.svg"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Linux.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Bash.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Nginx.svg"></code>
