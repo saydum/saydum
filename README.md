@@ -5,7 +5,6 @@
 📫 How to reach me [@saydum47](https://t.me/saydum_h)
 
  <br>
- <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=saydum&style=plastic&label=views&color=orange" alt="saydum" /> 
  </p>
