@@ -48,6 +48,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/RabbitMQ.svg"></code>
 
 ![saydum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saydum&theme=onedark&hide_border=true)
+![saydum's Stats](https://github-readme-stats.vercel.app/api?username=saydum&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![saydum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saydum&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+
+<br>
+
 ![Codewars](https://github.r2v.ch/codewars?user=saydum)
 
 
