@@ -48,12 +48,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/Swagger.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/saydum/saydum/main/svg/RabbitMQ.svg"></code>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=saydum&count_private=true&show_icons=true&theme=github_dark&hide_border=true&show=prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saydum&size_weight=1&count_weight=0&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23)](https://github.com/anuraghazra/github-readme-stats)
+![saydum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saydum&theme=onedark&hide_border=true)
+![Codewars](https://github.r2v.ch/codewars?user=saydum)
 
-<p align="center">
-
- ![Codewars](https://github.r2v.ch/codewars?user=saydum)
-
-</p>
 
